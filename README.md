@@ -3,7 +3,7 @@
 A simple application for keeping kids busy, to create good habits, give more self-confidence and improve physical health.
 
 ## Pain Point
-
+For parents and kids if the try to find way to:
 - redirect children's energy in right direction,
 - give kids some activities for health,
 - keep interested in sport,
