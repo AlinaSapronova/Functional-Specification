@@ -11,10 +11,10 @@ For parents and kids if the try to find way to:
 - controlling emotions and etc.
 
 ## User Stories
-- As a user, I want to register for an account to get access for challenges.
-- As a user, I want to be able to watch video.
-- As a user, I want to be able to see my progress.
-- As a user, I want to be able to edit my profile.
+-As a user, I want to be able to register with my email and password, so that I can create an account to get access for challenges.
+-As a user, I want to be able to edit my profile. 
+-As a user, I want to be able to choose challenge and watch exercises for each day in challenge 
+-As a user, I want to be able to track my progress.
 
 
 ## Domain Model
