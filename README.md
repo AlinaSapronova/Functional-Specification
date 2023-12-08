@@ -11,10 +11,10 @@ For parents and kids if the try to find way to:
 - controlling emotions and etc.
 
 ## User Stories
--As a user, I want to be able to register with my email and password, so that I can create an account to get access for challenges.
--As a user, I want to be able to edit my profile. 
--As a user, I want to be able to choose challenge and watch exercises for each day in challenge 
--As a user, I want to be able to track my progress.
+- As a user, I want to be able to register with my email and password, so that I can create an account to get access for challenges.
+- As a user, I want to be able to edit my profile. 
+- As a user, I want to be able to choose challenge and watch exercises for each day in challenge 
+- As a user, I want to be able to track my progress.
 
 
 ## Domain Model
@@ -30,23 +30,31 @@ For parents and kids if the try to find way to:
 - id
 - parent_id
 - name
+- gender
 - birthday
+
+
+###Progress
+- id
+- challenge_day_id
+- child_id
+
+###ChalangeDay
+- id
+- challenge_id
+- day_id
+
 
 ### Challenges
 - id
-- name
-- parent_id
-- child_id
-- name
 - title
 
 - ### Days
 - id
-- challenge_id
-- exercise_id
-- comleted_at
+- number
 
  ### Exercises
  - id
  - title
  - video_url
+ - day_id
