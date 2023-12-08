@@ -34,12 +34,12 @@ For parents and kids if the try to find way to:
 - birthday
 
 
-###Progress
+### Progress
 - id
 - challenge_day_id
 - child_id
 
-###ChalangeDay
+### ChalangeDay
 - id
 - challenge_id
 - day_id
@@ -49,7 +49,7 @@ For parents and kids if the try to find way to:
 - id
 - title
 
-- ### Days
+### Days
 - id
 - number
 
